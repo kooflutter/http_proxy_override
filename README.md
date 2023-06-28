@@ -17,7 +17,7 @@ void main() async {
   runApp(MyApp());
 }
 ```
-
+## 新增适配flutter新版本至3.10.5
 ## License
 
     Copyright (C) 2021 littlegnal
